@@ -48,4 +48,4 @@ To check a possible solution for the exercise, execute the following commands:
 
 [![codecov](https://codecov.io/gh/rubio/codemotion-library/branch/master/graph/badge.svg)](https://codecov.io/gh/rubio/codemotion-library)
 
-
+[![Build Status](https://travis-ci.org/rubio/codemotion-library.svg?branch=master)](https://travis-ci.org/rubio/codemotion-library)
