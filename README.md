@@ -43,3 +43,9 @@ Try creating a test for the method _borrow_ in the _CatalogController_
 To check a possible solution for the exercise, execute the following commands:
 `$ git fetch`
 `$ git checkout 1_monolith_with_tests`
+
+
+
+[![codecov](https://codecov.io/gh/rubio/codemotion-library/branch/master/graph/badge.svg)](https://codecov.io/gh/rubio/codemotion-library)
+
+
